@@ -48,3 +48,12 @@ $code-block-bg: $gray-2; // code block background color
 
 // Improve background contrast for code chunk ouput
 pre code:not(.sourceCode) { background-color: $gray-2; }
+
+// Improve contrast for tabset panels
+.nav-tabs .nav-link.active { 
+  background-color: $gray-1; 
+  color: $cream;
+}
+.tab-content { 
+    background-color: $gray-1; 
+    color: $cream; }
