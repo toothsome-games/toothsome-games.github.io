@@ -12,6 +12,7 @@ website:
   title: "Toothsome Games"
   repo-url: https://github.com/toothsome-games/toothsome-games.github.io
   repo-actions: [issue]
+  favicon: images/logo_toothsome.png
   navbar:
     background: primary
     left:
