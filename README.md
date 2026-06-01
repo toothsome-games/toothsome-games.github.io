@@ -1,2 +1,3 @@
-# toothsome-games.github.io
-Website for Toothsome Games
+# Toothsome Games
+
+Exciting, engaging, collaborative games (role-playing and otherwise!)
