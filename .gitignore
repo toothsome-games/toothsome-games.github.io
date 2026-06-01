@@ -48,8 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Quarto folders
+# Quarto internal content
 /.quarto/
+**/*.quarto_ipynb
 docs/
 
 # R Project
