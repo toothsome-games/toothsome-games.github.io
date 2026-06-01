@@ -15,9 +15,6 @@ website:
   favicon: images/logo_toothsome.png
   navbar:
     background: primary
-    left:
-      - text: "Home"
-        href: index.qmd
     right: 
       - text: "People"
         menu: 
