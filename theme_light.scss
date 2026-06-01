@@ -2,14 +2,19 @@
 
 // Colors
 /* Found on https://coolors.co/palettes/trending */
-$org-1: #ff9f1c;
-$org-2: #ffbf69;
-$mint-1: #2ec4b6;
-$mint-2: #cbf3f0;
-$url-blue: #4361ee;
+$fl-blue-4: #283E82;
+$fl-blue-3: #077DC2;
+$fl-blue-2: #01BAEF;
+$fl-blue-1: #5DDBFE;
+$fl-orange-4: #EB6534;
+$fl-orange-3: #FF9B00;
+$fl-orange-2: #F9B000;
+$fl-orange-1: #FFD879;
 
 /* generally useful other colors */
+$white: #ffffff;
 $cream: #F4F3EE;
+$black: #000000;
 $charcoal: #191919;
 $gray-1: #8A817C;
 $gray-2: #BCB8B1;
@@ -20,16 +25,16 @@ $font-size: 25px;
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 // Base document colors
-$navbar-bg: $org-1; // navbar
-$navbar-fg: $charcoal; // navbar foreground elements
-$navbar-hl: $org-2; // highlight color when hovering on a page
-$sidebar-bg: $org-2; // sidebar
+$navbar-bg: $charcoal; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $gray-2; // highlight color when hovering on a page
+$sidebar-bg: $gray-1; // sidebar
 $sidebar-fg: $charcoal; // sidebar foreground elements
 $body-bg: $cream; // page background
 $body-color: $charcoal; // page text
-$footer-bg: $mint-1; // footer
-$footer-fg: $charcoal; // footer text
-$link-color: $url-blue; // hyperlinks
+$footer-bg: $charcoal; // footer
+$footer-fg: $cream; // footer text
+$link-color: $fl-orange-3; // hyperlinks
 
 // Code text
 $code-bg: $gray-2; // inline code background color
