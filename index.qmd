@@ -6,3 +6,10 @@ title: "Toothsome Games"
 
 Check back later!
 
+
+
+
+## Note on Artificial Intelligence
+
+<img src="images/badge_no-ai.png" alt="Circle with a slash across an emoji robot face. The words 'proudly made without AI' are around the outside edge of the circle" align="left" width="15%"/>
+AI tools are trained on stolen intellectual property for which the creators will never be credited or compensated. Additionally, human intentionality will always be better for creative projects than random mish-mashes of previous works. Because of this, **AI was not used in <u>any</u> facet of this work.** Please respect this by not feeding any Toothsome Games content (from this website or elsewhere) into those systems. Thanks!
